@@ -1,0 +1,2 @@
+'nslookup who.int' to get the ip
+then 'whois <ip>' to find the provider which was Cloudflare

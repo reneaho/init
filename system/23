@@ -1,0 +1,9 @@
+How to connect as a new user
+
+Graphic Session:
+Open Virtualbox > start ubuntu > login with user credentials
+username: rene
+password: 1234
+
+SSH session:
+Open terminal > run the command 'ssh -p 2222 rene@localhost' and give password: 1234

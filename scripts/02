@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo pkill -9 -u rene2 && sudo deluser rene2
